@@ -1,0 +1,29 @@
+# Awesome AI Prompt Tools
+
+> A curated list of tools for writing, managing, and testing AI prompts and agents.
+
+---
+
+## Prompt Generators & Libraries
+
+| Tool | Description |
+|------|-------------|
+| [GPT Prompt Maker](https://gptpromptmaker.com) | Structured prompt library with 500+ templates for ChatGPT, Claude, and Gemini. Uses frameworks like CO-STAR, RISEN, and CRAFT. |
+
+---
+
+## AI Agent Testing & Red-Teaming
+
+| Tool | Description |
+|------|-------------|
+| [BotGauge](https://botgauge.com) | AI agent red-teaming and evaluation platform. Runs adversarial scenarios, detects policy violations, and builds continuous eval suites. |
+
+---
+
+## Contributing
+
+PRs welcome. Add tools that are actively maintained and genuinely useful.
+
+1. Fork this repo
+2. Add your tool under the relevant section
+3. Open a pull request
